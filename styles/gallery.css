@@ -1,7 +1,7 @@
 * { box-sizing: border-box; margin: 0 auto;}
 
 body, header, nav{
-    max-width: 800px;
+    max-width: 1000px;
 }
 
 .container{
